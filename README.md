@@ -83,7 +83,7 @@ kubectl apply -f k8s/
 
 ---
 
-## 📌 Notes
+## Notes
 
 * Uses Jenkins Shared Library for CI/CD
 * Fully automated pipeline
