@@ -1,9 +1,9 @@
 @Library('shared-lib') _
 
 pipelineTemplate(
-    repoUrl: 'https://github.com/ReemNabil1/petclinic-service-a',
-    imageName: 'reemnabil/service-a',
+    repoUrl: 'https://github.com/ReemNabil1/petclinic-service-c',
+    imageName: 'reemnabil/service-c',
     imageTag: 'latest',
-    containerName: 'service-a-container',
+    containerName: 'service-c-container',
     port: "9090"
 )
